@@ -6,3 +6,5 @@ Aqui criei um esquema logico e conceitual inspirado no curso de Bancos de Dados 
 Foi criada queries SQL para responder algumas questões relacionada ao Banco de Dados.
 
 ## Diagrama EER
+
+![Diagrama EER](https://github.com/JhonGb26/BD-ecommerce-DIO/blob/main/EER.png?raw=true)
